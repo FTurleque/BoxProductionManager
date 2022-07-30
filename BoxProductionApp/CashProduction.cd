@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CashProduction.Class.Production">
+    <Position X="1" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAACAAAAAAAAQBgAwAAAAAAAAAQAAAAAACAAA=</HashCode>
+      <FileName>Class\Production.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="QuotaPerHour" />
+      <Property Name="ProductionDefault" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CashProduction.Class.BoxesDefault">
+    <Position X="7" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAgAABACCAAAAAAAA=</HashCode>
+      <FileName>Class\BoxesDefault.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CashProduction.QuotaPerHour">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAEAAAA=</HashCode>
+      <FileName>Class\QuotaPerHour.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
